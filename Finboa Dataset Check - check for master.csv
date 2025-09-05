@@ -1,0 +1,114 @@
+recordid1,recordid2,companyname1,companyname2,domainname1,domainname2,editdistance,similarity
+15160762976,15160826294,First Bank,First Bank,,fbonline.biz,0,1
+15160926543,15161056800,Peoples Bank,Peoples Bank,,peoplesbank-wa.com,0,1
+15160880693,23895223299,Old Second National Bank,Old Second National Bank,oldsecond.com,,0,1
+15163994956,23895066927,Pinnacle Bank,Pinnacle Bank,pinnbanktx.com,,0,1
+15163994956,23895533117,Pinnacle Bank,Pinnacle Bank,pinnbanktx.com,,0,1
+15684340517,23895223304,General Electric,General Electric,ge.com,,0,1
+15160877592,23895533131,"Texas Capital Bank, National Association","Texas Capital Bank, National Association",texacapitalbank.com,,0,1
+15160562017,15160763011,Farmers & Merchants Bank,Farmers & Merchants Bank,bankfmb.com,,0,1
+15160562017,15160773740,Farmers & Merchants Bank,Farmers & Merchants Bank,bankfmb.com,,0,1
+15160873825,15161056800,Peoples Bank,Peoples Bank,,peoplesbank-wa.com,0,1
+15160562017,15160877139,Farmers & Merchants Bank,Farmers & Merchants Bank,bankfmb.com,,0,1
+15160562017,15160888969,Farmers & Merchants Bank,Farmers & Merchants Bank,bankfmb.com,,0,1
+15160601174,15163369746,First Citizens Bank,First Citizens Bank,,myfcb.bank,0,1
+15160601669,22341022836,The Citizens Bank,The Citizens Bank,,citizenshickman.com,0,1
+15160609976,15163369746,First Citizens Bank,First Citizens Bank,,myfcb.bank,0,1
+15160628918,15160837934,The First National Bank In Sioux Falls,The First National Bank In Sioux Falls,,fnbsf.com,0,1
+15160630880,23895066925,Progressive Bank,Progressive Bank,progressivebank.com,,0,1
+16174794576,23895066933,Midland States Bank,Midland States Bank,midlandstatesbank.com,,0,1
+16174765131,23894913180,Commercial Bank,Commercial Bank,thecommercialfinancial_institutionsc.com,,0,1
+15160652168,15163269157,The Huntington National Bank,The Huntington National Bank,,huntington.com,0,1
+15160654135,15160654137,Commerce Bank,Commerce Bank,commercebank.com,,0,1
+15160654135,15160684604,Commerce Bank,Commerce Bank,commercebank.com,,0,1
+15160654135,15160734091,Commerce Bank,Commerce Bank,commercebank.com,,0,1
+15160654135,15160734092,Commerce Bank,Commerce Bank,commercebank.com,,0,1
+15160654135,15160933966,Commerce Bank,Commerce Bank,commercebank.com,,0,1
+15160662080,15160715081,American National Bank & Trust,American National Bank & Trust,amnat.com,,0,1
+15160662080,15160754439,American National Bank & Trust,American National Bank & Trust,amnat.com,,0,1
+15160663445,23895066942,Marquette Bank,Marquette Bank,emarquettebank.com,,0,1
+15160670836,15160804652,Webster Five Cents Savings Bank,Webster Five Cents Savings Bank,,web5.com,0,1
+15160673128,16174278202,Commercial Bank,Commercial Bank,,commercialbankky.bank,0,1
+15160673128,16174765131,Commercial Bank,Commercial Bank,,thecommercialfinancial_institutionsc.com,0,1
+15160681605,15160700543,The Federal Savings Bank,The Federal Savings Bank,thefederalsavingsbank.com,,0,1
+16174278202,23894913180,Commercial Bank,Commercial Bank,commercialbankky.bank,,0,1
+15160562017,15160743715,Farmers & Merchants Bank,Farmers & Merchants Bank,bankfmb.com,,0,1
+15160681605,23894448403,The Federal Savings Bank,The Federal Savings Bank,thefederalsavingsbank.com,,0,1
+15160681605,23895223303,The Federal Savings Bank,The Federal Savings Bank,thefederalsavingsbank.com,,0,1
+15160683953,15160870659,Community Financial Services Bank,Community Financial Services Bank,cfsvcs.com,,0,1
+15160683953,15160972446,Community Financial Services Bank,Community Financial Services Bank,cfsvcs.com,,0,1
+15160745322,15164136555,American Express National Bank,American Express National Bank,,americanexpress.com,0,1
+15160561978,15160856365,Fidelity Bank,Fidelity Bank,,fidelitybanker.com,0,1
+15160762976,15160856350,First Bank,First Bank,,firstiowa.bank,0,1
+15160700083,15163369746,First Citizens Bank,First Citizens Bank,,myfcb.bank,0,1
+15160460179,15163369746,First Citizens Bank,First Citizens Bank,,myfcb.bank,0,1
+23920368040,30475950230,Firstar Bank,Firstar Bank,firstar-bank.com,firstar-bank.com,0,1
+15160837934,23894448410,The First National Bank In Sioux Falls,The First National Bank In Sioux Falls,fnbsf.com,,0,1
+15160933019,23895533130,American River Bank,American River Bank,americanriverbank.com,,0,1
+15160820488,15160965017,First Southern Bank,First Southern Bank,,firstsouthernbank.net,0,1
+15160703816,15160981799,Mainstreet Bank,Mainstreet Bank,,mstreetbank.com,0,1
+15160731236,15163369746,First Citizens Bank,First Citizens Bank,,myfcb.bank,0,1
+15160796821,23895223313,Howard Bank,Howard Bank,howardbank.com,,0,1
+15160777340,23895223329,Citizens State Bank,Citizens State Bank,csbont.com,,0,1
+30483112350,3417384936,Saco & Biddeford Savings Institution,Saco and Biddeford Savings Institution,sbsavings.bank,sbsavings.bank,3,0.9210526316
+15160695318,16174263143,"Home State Bank, National Association",Home State Bank/national Association,,homestbk.com,3,0.9189189189
+15160747685,16174263143,"Home State Bank, National Association",Home State Bank/national Association,,homestbk.com,3,0.9189189189
+15160837490,23894602893,Farmers Bank And Trust Company,Farmers Bank & Trust Company,fbtbly.com,,3,0.9
+15160809254,16174212223,"Metabank, National Association","Natbank, National Association",,nbc.ca,3,0.9
+15160837490,23894752649,Farmers Bank And Trust Company,Farmers Bank & Trust Company,fbtbly.com,,3,0.9
+16174212223,23894602859,"Natbank, National Association","Citibank, National Association",nbc.ca,,3,0.9
+16174212223,23894448308,"Natbank, National Association","Gnbank, National Association",nbc.ca,,3,0.8965517241
+15160873102,16174212223,"Gnbank, National Association","Natbank, National Association",,nbc.ca,3,0.8965517241
+16174194571,23894448308,Cfbank National Association,"Gnbank, National Association",cf.bank,,3,0.8928571429
+15160873102,16174397488,"Gnbank, National Association","Bank, National Association",,thebankna.bank,3,0.8928571429
+15160873102,16174194571,"Gnbank, National Association",Cfbank National Association,,cf.bank,3,0.8928571429
+16174397488,23894448308,"Bank, National Association","Gnbank, National Association",thebankna.bank,,3,0.8928571429
+16184542114,23894448313,Pcb Bank,Pcsb Bank,mypcbbank.com,,1,0.8888888889
+15160551562,15160731546,Cape Cod Five Cents Savings Bank,The Cape Cod Five Cents Savings Bank,capecodfive.com,,4,0.8888888889
+16184542114,23895223225,Pcb Bank,Pcsb Bank,mypcbbank.com,,1,0.8888888889
+15160773740,16173954468,Farmers & Merchants Bank,Farmers And Merchants Bank,,fmfinancial_institutionsylvania.com,3,0.8846153846
+15160888969,16173954468,Farmers & Merchants Bank,Farmers And Merchants Bank,,fmfinancial_institutionsylvania.com,3,0.8846153846
+15160877139,16173954468,Farmers & Merchants Bank,Farmers And Merchants Bank,,fmfinancial_institutionsylvania.com,3,0.8846153846
+15160763011,16173954468,Farmers & Merchants Bank,Farmers And Merchants Bank,,fmfinancial_institutionsylvania.com,3,0.8846153846
+16174397488,23894448406,"Bank, National Association","Inb, National Association",thebankna.bank,,3,0.8846153846
+15160743715,16173954468,Farmers & Merchants Bank,Farmers And Merchants Bank,,fmfinancial_institutionsylvania.com,3,0.8846153846
+15160982853,15161036081,Independence Bank,Independent Bank,,i-bankonline.com,2,0.8823529412
+15160826383,15160877414,Farmers & Merchants State Bank,The Farmers & Merchants State Bank,fmsbscotland.com,,4,0.8823529412
+15160826383,23894752630,Farmers & Merchants State Bank,The Farmers & Merchants State Bank,fmsbscotland.com,,4,0.8823529412
+16174412971,23894752608,Nrl Federal Credit Union,Navy Federal Credit Union,nrlfcu.org,,3,0.88
+15160681605,15160982867,The Federal Savings Bank,Home Federal Savings Bank,thefederalsavingsbank.com,,3,0.88
+16174412971,23895223309,Nrl Federal Credit Union,Navy Federal Credit Union,nrlfcu.org,,3,0.88
+15160681605,15160810653,The Federal Savings Bank,Home Federal Savings Bank,thefederalsavingsbank.com,,3,0.88
+16173946721,23895066924,"Keen Bank, National Association","Golden Bank, National Association",keen.bank,,4,0.8787878788
+15161076490,16173946721,"Golden Bank, National Association","Keen Bank, National Association",,keen.bank,4,0.8787878788
+16173946721,23895533160,"Keen Bank, National Association","Bremer Bank, National Association",keen.bank,,4,0.8787878788
+16173946721,23895378036,"Keen Bank, National Association","Modern Bank, National Association",keen.bank,,4,0.8787878788
+16173946721,23895378033,"Keen Bank, National Association","Modern Bank, National Association",keen.bank,,4,0.8787878788
+16173946721,23894448413,"Keen Bank, National Association","Bremer Bank, National Association",keen.bank,,4,0.8787878788
+15160700426,15160700727,Usf Federal Credit Union,Apl Federal Credit Union,,aplfcu.org,3,0.875
+15160694357,15160981799,Main Street Bank,Mainstreet Bank,,mstreetbank.com,2,0.875
+15160700084,15684290425,First Citizens'',First Citizens,,firstcitizenstt.com,2,0.875
+15160700426,16174412971,Usf Federal Credit Union,Nrl Federal Credit Union,,nrlfcu.org,3,0.875
+15160700426,16302615106,Usf Federal Credit Union,E Federal Credit Union,,efedcu.org,3,0.875
+15160767590,15160981799,Main Street Bank,Mainstreet Bank,,mstreetbank.com,2,0.875
+15160860171,15160981799,Main Street Bank,Mainstreet Bank,,mstreetbank.com,2,0.875
+15160868124,16302562128,"Vast Bank, National Association","Txn Bank, National Association",,txn.bank,4,0.8709677419
+15160633240,16302562128,"Home Bank, National Association","Txn Bank, National Association",,txn.bank,4,0.8709677419
+15160868124,16173946721,"Vast Bank, National Association","Keen Bank, National Association",,keen.bank,4,0.8709677419
+15160868124,16174212223,"Vast Bank, National Association","Natbank, National Association",,nbc.ca,4,0.8709677419
+15160633240,16173946721,"Home Bank, National Association","Keen Bank, National Association",,keen.bank,4,0.8709677419
+16302562128,23894448308,"Txn Bank, National Association","Gnbank, National Association",txn.bank,,4,0.8666666667
+16174194571,23894602859,Cfbank National Association,"Citibank, National Association",cf.bank,,4,0.8666666667
+15160873102,16302562128,"Gnbank, National Association","Txn Bank, National Association",,txn.bank,4,0.8666666667
+16174384191,23895378024,First National Bank In Hobbs,First National Bank In Howell,firstamb.com,,4,0.8620689655
+15160921373,16174212221,Texas Bank And Trust Company,Lee Bank And Trust Company,,leebank24.com,4,0.8571428571
+15160562017,15160779336,Farmers & Merchants Bank,The Farmers & Merchants Bank,bankfmb.com,,4,0.8571428571
+15160877592,23895223298,"Texas Capital Bank, National Association","Texas Citizens Bank, National Association",texacapitalbank.com,,6,0.8536585366
+16173946721,23895378030,"Keen Bank, National Association","Amerant Bank, National Association",keen.bank,,5,0.8529411765
+15160703633,16173946721,"Nextier Bank, National Association","Keen Bank, National Association",,keen.bank,5,0.8529411765
+15160877592,15160905639,"Texas Capital Bank, National Association","Capital Bank, National Association",texacapitalbank.com,,6,0.85
+15160877592,15161026722,"Texas Capital Bank, National Association","Capital Bank, National Association",texacapitalbank.com,,6,0.85
+15160758134,15160877592,"Capital Bank, National Association","Texas Capital Bank, National Association",,texacapitalbank.com,6,0.85
+15160807286,15160828833,"Pyramax Bank, F.s.b.","Pyramax Bank, Fsb",pyramaxbank.com,,3,0.85
+15160511605,15160660305,"Waterford Bank, NA","Waterford Bank, N.a.",waterfordbankna.com,,3,0.85
+15160736171,15160877592,"Capital Bank, National Association","Texas Capital Bank, National Association",,texacapitalbank.com,6,0.85
